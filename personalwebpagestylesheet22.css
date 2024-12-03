@@ -1,0 +1,252 @@
+
+
+#Aboutmetitle {
+	margin-top:0px;
+	font-size:20px;
+	font-family:Georgia;
+	text-align:center;
+    background:#001A54;
+    color:white;
+    padding-top: 10px;
+    padding-bottom: 10px;
+} 
+
+#ResumeTitle {
+	margin-top:0px;
+	font-size:22px;
+	font-family:Georgia;
+	text-align:center;
+	margin-top: 0px;
+    background:#001A54;
+    color:white;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+#Services {
+	font-size:20px;
+	font-family:Georgia;
+	text-align:center;
+	margin-top: 0px;
+    background:#001A54;
+    color:white;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+#AboutMe {
+	border-radius:25px;
+	background:#D1F6FF;
+	padding:20px;
+	height:500px;
+	width:1000px;
+	margin-right: 150px;
+    margin-left: 110px;
+}
+
+#Education {
+	border-radius:25px;
+	background:#D1F6FF;
+	padding: 20px;
+	height:550px;
+	width:1000px;
+	margin-right: 150px;
+    margin-left: 110px;
+}
+
+#embeddedresume1 {
+	margin-right: 150px;
+    margin-left: 150px;
+    border-radius:25px;
+	background:#D1F6FF;
+	padding: 30px;
+	height:600px;
+	width:1000px;
+	margin-right: 150px;
+    margin-left: 110px;
+	
+}
+
+#proposal {
+	margin-right: 150px;
+    margin-left: 150px;
+    border-radius:20px;
+	background:#D1F6FF;
+	padding: 20px;
+	height:500px;
+	width:1000px;
+	margin-right: 150px;
+    margin-left: 110px;
+    align-content: center;
+}
+
+#blogpost {
+	margin-right: 150px;
+    margin-left: 150px;
+    border-radius:20px;
+	background:#D1F6FF;
+	padding: 20px;
+	height:500px;
+	width:1000px;
+	margin-right: 150px;
+    margin-left: 110px;
+    align-content: center;
+}
+
+#manual {
+	margin-top: 5px;
+	margin-right: 150px;
+    margin-left: 150px;
+    border-radius:20px;
+	background:#D1F6FF;
+	padding: 20px;
+	height:500px;
+	width:1000px;
+	margin-right: 150px;
+    margin-left: 110px;
+    align-content: center;
+}
+
+
+.navbar {
+  width: 100%;
+  background-color:#001A54;
+  overflow: auto;
+  display:inline-grid;
+  list-style-type: none;
+  margin-bottom: 5px;
+}
+
+.navbar a {
+  float: left;
+  padding: 10px;
+  padding-left:;
+  color:white;
+  text-decoration: none;
+  font-size: 16px;
+  width: 15%;
+  text-align: left;
+  list-style-type: none;
+}
+
+.navbar a:hover {
+  background-color:white;
+  border-radius:15px;
+  color:black;
+  list-style-type:none;
+}
+
+.navbar a.active {
+  background-color:#D1F6FF;
+  border-radius:15px;
+  list-style-type:none;
+  color:black;
+}
+
+h2{
+ 	font-family:Verdana;
+ 	font-size:18px;
+ }
+
+#aboutmeheading {
+	font-family: Verdana;
+	font-size: 22px;
+	text-align:left;
+}
+#AboutMe td {
+ 	padding-top:0px;
+ 	padding-right:100px;
+ 	font-family: Verdana;
+ }
+
+#AboutMe th {
+	padding-bottom:0px;
+	padding-top:20px;
+}
+
+img{
+	height:400px;
+	width:300px;
+	padding-left:100px;
+	align-items: left;
+}
+
+
+
+
+#footer1 {
+	background-color:#001A54;
+	font-size:12px;
+	font-family:Georgia;
+	color:white;
+	text-align:center;
+	margin-bottom:1px;
+	margin-right: 0px;
+	margin-left:0px;
+}
+
+#footer2 {
+	width:100%;
+	background-color:#001A54;
+	font-size:12px;
+	font-family:Georgia;
+	color:white;
+	text-align:center;
+	margin-bottom:1px;
+	margin-right: 0px;
+	margin-left:0px;
+}
+
+#resumefooter {
+	margintop:0px;
+	background-color:#001A54;
+	font-size:12px;
+	font-family:Georgia;
+	color:white;
+	text-align:center;
+	margin-bottom:1px;
+	margin-right: 0px;
+	margin-left:0px;
+}
+
+hr {
+background-color:#D1F6FF;	
+}
+
+#pdf {
+	align-items:center;
+}
+
+#resumefooter a:link {
+	color:white;
+}
+
+#resumefooter a:visited {
+	color:hotpink;
+}
+
+#footer1 a:visited {
+	color:hotpink;
+}
+
+#footer1 a:link {
+	color:white;
+}
+
+#embeddedresume a:link {
+	color:black;
+}
+
+#embeddedresume a:visited {
+	color:hotpink;
+}
+
+#footer2 a:visited {
+	color:hotpink;
+}
+
+#footer2 a:link {
+	color:white;
+}
+
+
